@@ -31,7 +31,7 @@ pip install pandas
 pip install numpy
 pip install notebook
 ```
-If you don't have Python installed yet, it is recommended that you install the [Anaconda]() distribution of Python which already has the above mentioned packages and more included in it. Make sure to select Python 3.x installer.
+If you don't have Python installed yet, it is recommended that you install the [Anaconda](https://docs.anaconda.com/anaconda/install/) distribution of Python which already has the above mentioned packages and more included in it. Make sure to select Python 3.x installer.
 
 **Run commands**: 
 
