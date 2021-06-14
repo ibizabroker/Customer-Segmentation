@@ -8,7 +8,7 @@ In this project we use K-means clustering and also visualize the gender and age 
 analyze their annual incomes and spending scores.
 
 ### Dataset
-The customer dataset `Mall_Customers.csv` includes a total of 200 customers with the follwoing attributes of the customers:
+The customer dataset `Mall_Customers.csv` includes a total of 200 customers with the following attributes of the customers:
 - `CustomerID` : This is the identification number provided to each customer.
 - `Gender` : The gender of the customer.
 - `Age` : The age of the customer.
